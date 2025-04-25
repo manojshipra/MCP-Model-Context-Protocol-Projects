@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+mcp
+langchain-openai
+langchain-anthropic
+langchain-community
+scikit-learn
+tiktoken
+beautifulsoup4
+sseclient-py
